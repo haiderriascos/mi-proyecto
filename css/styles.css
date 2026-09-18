@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(242, 66, 66);
+    color :black;
+font-family: Arial, Helvetica, sans-serif;
+}
+/*===================================================
+                    TEXTO
+  ==================================================  */
+  h1 {
+    color: black;
+font-size: 40px;
+  }                
+
+  /*===================================================
+                    SECCCION
+  ==================================================  */
+  .seccion{
+    background-color: white;
+
+  }
+  #Perfil{
+    background-color: #eaf2ff;
+  }
